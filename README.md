@@ -13,8 +13,11 @@ This project includes a simple 3-key keyboard named Mini Macro Pad made using Ar
 ## How to Use?
 
     Arduino IDE Setup: Necessary libraries need to be installed to open the project in the Arduino IDE.
+    
     Connection: Connect the Arduino Pro Micro to your computer.
+    
     Uploading Code: Open the project file in the Arduino IDE and upload it to the Arduino Pro Micro.
+    
     Usage: Each key will perform the assigned keyboard combination.
 
 ## Requirements
@@ -40,8 +43,11 @@ This mini macro pad works with the Arduino Pro Micro and operates with pre-loade
 Uploading and Making Changes (with Arduino IDE)
 
     Arduino IDE Installation: Make sure the Arduino IDE is installed on your computer. You can download it from the Arduino Official Website.
+
     Connection: Connect the Arduino Pro Micro to your computer.
+    
     Uploading Code: Open the Arduino IDE, import the project file, and upload the code to the Arduino Pro Micro.
+    
     Making Changes: Edit the code as desired and save your changes. Then upload the modified code to the Arduino Pro Micro.
 
 ## Usage Without Arduino IDE
